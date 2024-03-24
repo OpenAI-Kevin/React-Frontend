@@ -1,5 +1,6 @@
 export * from './sidebar/SideBarMenuItem';
 export * from './chat-bubbles/GptMessages';
+export * from './chat-bubbles/GptMessagesAudio';
 export * from './chat-bubbles/MyMessage';
 export * from './chat-bubbles/GptOrthographyMessage';
 export * from './loaders/TypingLoader';
